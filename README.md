@@ -1,8 +1,8 @@
-✨ hi there, i’m devin! 🌸
-👩‍💻 staff software engineer
-💻 coding since i was 8 (tiny keyboard, big dreams)
-🐎 cal poly slo software engineering undergrad
-📚 currently a master’s student @ harvard
-🌱 always learning, always tinkering 
+✨ hi there, i’m devin! 🌸 <br>
+👩‍💻 staff software engineer <br>
+💻 coding since i was 8 (tiny keyboard, big dreams) <br>
+🐎 cal poly slo software engineering undergrad <br>
+📚 currently a master’s student @ harvard <br>
+🌱 always learning, always tinkering <br>
 
 enjoy my playground of ideas! 💖
