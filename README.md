@@ -1,5 +1,4 @@
-hi there, i’m devin 🌸
-can we talk about the beauty of combinatorial game theory?
+hi there, i’m devin 🌸 
 <br>
 
 <picture>
